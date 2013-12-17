@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/blog/p2-ciapi/php/';
+$config['base_url']	= 'FILL_ME';
 
 /*
 |--------------------------------------------------------------------------
